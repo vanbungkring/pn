@@ -1,0 +1,1 @@
+[12-Oct-2020 10:36:07 UTC] PHP Fatal error:  Class 'PHPUnit\TextUI\ResultPrinter' not found in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/Log/TeamCity.php on line 32

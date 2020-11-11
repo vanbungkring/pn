@@ -1,0 +1,28 @@
+[01-Sep-2020 04:17:32 UTC] PHP Fatal error:  Class 'PHPUnit\Util\PHP\AbstractPhpProcess' not found in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 17
+[01-Sep-2020 20:45:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 11
+[01-Sep-2020 20:46:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 11
+[01-Sep-2020 20:48:05 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[01-Sep-2020 20:48:07 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[01-Sep-2020 20:48:23 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[01-Sep-2020 20:48:23 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[01-Sep-2020 20:48:24 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[01-Sep-2020 20:50:59 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[01-Sep-2020 20:50:59 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[01-Sep-2020 20:51:00 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[01-Sep-2020 20:51:02 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[01-Sep-2020 20:51:20 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 7
+[01-Sep-2020 20:56:17 UTC] PHP Parse error:  syntax error, unexpected '$shellname' (T_VARIABLE) in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[01-Sep-2020 20:56:18 UTC] PHP Parse error:  syntax error, unexpected '$shellname' (T_VARIABLE) in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[01-Sep-2020 20:56:18 UTC] PHP Parse error:  syntax error, unexpected '$shellname' (T_VARIABLE) in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[01-Sep-2020 20:56:18 UTC] PHP Parse error:  syntax error, unexpected '$shellname' (T_VARIABLE) in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[01-Sep-2020 20:59:18 UTC] PHP Parse error:  syntax error, unexpected '$shellname' (T_VARIABLE) in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[01-Sep-2020 20:59:20 UTC] PHP Parse error:  syntax error, unexpected '$shellname' (T_VARIABLE) in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[01-Sep-2020 20:59:22 UTC] PHP Parse error:  syntax error, unexpected '$shellname' (T_VARIABLE) in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[01-Sep-2020 23:25:47 UTC] PHP Parse error:  syntax error, unexpected '$shellname' (T_VARIABLE) in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/rce.php on line 6
+[10-Sep-2020 14:17:08 UTC] PHP Fatal error:  Class 'PHPUnit\Util\PHP\AbstractPhpProcess' not found in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 17
+[20-Sep-2020 07:58:53 UTC] PHP Fatal error:  Class 'PHPUnit\Util\PHP\AbstractPhpProcess' not found in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 17
+[12-Oct-2020 10:35:39 UTC] PHP Fatal error:  Class 'PHPUnit\Util\PHP\AbstractPhpProcess' not found in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 17
+[12-Oct-2020 10:36:43 UTC] PHP Fatal error:  Class 'PHPUnit\Util\PHP\AbstractPhpProcess' not found in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 17
+[12-Oct-2020 13:12:26 UTC] PHP Fatal error:  Class 'PHPUnit\Util\PHP\AbstractPhpProcess' not found in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 17
+[12-Oct-2020 13:12:38 UTC] PHP Fatal error:  Class 'PHPUnit\Util\PHP\AbstractPhpProcess' not found in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 17
+[12-Oct-2020 13:12:40 UTC] PHP Fatal error:  Class 'PHPUnit\Util\PHP\AbstractPhpProcess' not found in /home/nasdem/public_html/web/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 17
